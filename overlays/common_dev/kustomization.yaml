@@ -4,6 +4,6 @@ images:
 - name: dhdudwn95/common
   newTag: "19"
 - name: tisdpsk98/common
-  newTag: "21"
+  newTag: "23"
 resources:
 - ../../common_base
