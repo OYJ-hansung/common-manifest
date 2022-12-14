@@ -3,5 +3,7 @@ kind: Kustomization
 images:
 - name: dhdudwn95/common
   newTag: "18"
+- name: tisdpsk98/common
+  newTag: "6"
 resources:
 - ../../common_base
